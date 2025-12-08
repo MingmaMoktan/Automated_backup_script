@@ -99,5 +99,5 @@ crontab -l
 
 ## 🧑‍💻 Author
 
-* **Your Name**
+* **Mingma Moktan**
 * Project: *IBM Linux Final Project – Automated Backup Script*
